@@ -1,0 +1,171 @@
+{
+    "name": "Mario Souto (DevSoutinho)",
+    "job": "Lead Software Engineer",
+    "bg": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "github": "omariosouto",
+    "playlists": {
+        "jogos": [
+            {
+                "title": "Frostpunk - Neve e Steak tartare",
+                "url": "https://www.youtube.com/watch?v=QsqatJxAUtk",
+                "thumb": "https://img.youtube.com/vi/QsqatJxAUtk/hqdefault.jpg"
+            },
+            {
+                "title": "Frostpunk - Neve e Steak tartare",
+                "url": "https://www.youtube.com/watch?v=O8jtAyPuhNg",
+                "thumb": "https://img.youtube.com/vi/O8jtAyPuhNg/hqdefault.jpg"
+            },
+            {
+                "title": "Gas Station Simulator - 8 dias sem dormir!",
+                "url": "https://www.youtube.com/watch?v=R1d0DyRDG_Q",
+                "thumb": "https://img.youtube.com/vi/R1d0DyRDG_Q/hqdefault.jpg"
+            },
+            {
+                "title": "Gartic Phone - Não assista a esse NerdPlayer!",
+                "url": "https://www.youtube.com/watch?v=0oJQUs5oRiM",
+                "thumb": "https://img.youtube.com/vi/0oJQUs5oRiM/hqdefault.jpg"
+            },
+            {
+                "title": "Netdecking Estraga o Magic?",
+                "url": "https://www.youtube.com/watch?v=dXihyhYEsEc",
+                "thumb": "https://img.youtube.com/vi/dXihyhYEsEc/hqdefault.jpg"
+            },
+            {
+                "title": "Cities: Skylines - EPCOTAB, o futuro de Saint Laurrent",
+                "url": "https://www.youtube.com/watch?v=zybKHMgLCWU",
+                "thumb": "https://img.youtube.com/vi/zybKHMgLCWU/hqdefault.jpg"
+            },
+            {
+                "title": "We Were Here Together - Os Enigmas deste Mundo",
+                "url": "https://www.youtube.com/watch?v=UKgQsrHUG40",
+                "thumb": "https://img.youtube.com/vi/UKgQsrHUG40/hqdefault.jpg"
+            },
+            {
+                "title": "Microsoft Flight Simulator - Top Gun: Oceania - Missão RJ!",
+                "url": "https://www.youtube.com/watch?v=n3TneUb5c-w",
+                "thumb": "https://img.youtube.com/vi/n3TneUb5c-w/hqdefault.jpg"
+            }
+        ],
+        "front-end": [
+            {
+                "title": "Jogo com JavaScript #01: Criando um Flappy Bird do ZERO!!!",
+                "url": "https://youtube.com/watch?v=jOAU81jdi-c",
+                "thumb": "https://img.youtube.com/vi/jOAU81jdi-c/hqdefault.jpg"
+            },
+            {
+                "title": "Jogo com JavaScript #01: Criando um Flappy Bird do ZERO!!!",
+                "url": "https://www.youtube.com/watch?v=llF6vD-RljE",
+                "thumb": "https://img.youtube.com/vi/llF6vD-RljE/hqdefault.jpg"
+            },
+            {
+                "title": "A Primeira Aula de Flutter Que Todo Mundo Deveria Ter",
+                "url": "https://www.youtube.com/watch?v=J4BVaXkwmM8",
+                "thumb": "https://img.youtube.com/vi/J4BVaXkwmM8/hqdefault.jpg"
+            },
+            {
+                "title": "O QUE SÃO FRAMEWORKS E BIBLIOTECAS? QUAIS AS DIFERENÇAS?",
+                "url": "https://www.youtube.com/watch?v=dp0zB4n3MUs",
+                "thumb": "https://img.youtube.com/vi/dp0zB4n3MUs/hqdefault.jpg"
+            },
+            {
+                "title": "Angular (O Vídeo que Você Precisava para Começar no Framework) // Dicionário do Programador",
+                "url": "https://www.youtube.com/watch?v=Yf0rC7dERjg",
+                "thumb": "https://img.youtube.com/vi/Yf0rC7dERjg/hqdefault.jpg"
+            },
+            {
+                "title": "Como Foi Programado um App Que Faz Mágica",
+                "url": "https://www.youtube.com/watch?v=I36seuWUe5s",
+                "thumb": "https://img.youtube.com/vi/I36seuWUe5s/hqdefault.jpg"
+            },
+            {
+                "title": "O que todo iniciante em Front End deveria aprender | Como manipular arrays e objetos em JavaScript",
+                "url": "https://www.youtube.com/watch?v=yS7AcF-xRUg",
+                "thumb": "https://img.youtube.com/vi/yS7AcF-xRUg/hqdefault.jpg"
+            },
+            {
+                "title": "5 Erros Históricos do CSS",
+                "url": "https://www.youtube.com/watch?v=HNjkqONzGS0",
+                "thumb": "https://img.youtube.com/vi/HNjkqONzGS0/hqdefault.jpg"
+            },
+            {
+                "title": "Deploy de Front End ATUALIZADO! | O que eu uso para hospedagem de Front End",
+                "url": "https://www.youtube.com/watch?v=d9c0r-J6CdM",
+                "thumb": "https://img.youtube.com/vi/d9c0r-J6CdM/hqdefault.jpg"
+            }
+        ],
+        "back-end": [
+            {
+                "title": "Node JS: Construindo CRUDs com file system focando em serialização e JSON",
+                "url": "https://www.youtube.com/watch?v=dvd3pNYh7So",
+                "thumb": "https://img.youtube.com/vi/dvd3pNYh7So/hqdefault.jpg"
+            },
+            {
+                "title": "Node JS: Construindo CRUDs com file system focando em serialização e JSON",
+                "url": "https://www.youtube.com/watch?v=8q36rNS5yVo",
+                "thumb": "https://img.youtube.com/vi/8q36rNS5yVo/hqdefault.jpg"
+            },
+            {
+                "title": "O que é o Java? #HipstersPontoTube",
+                "url": "https://www.youtube.com/watch?v=90NcVNsKGik",
+                "thumb": "https://img.youtube.com/vi/90NcVNsKGik/hqdefault.jpg"
+            },
+            {
+                "title": "O que é Machine Learning? #HipstersPontoTube",
+                "url": "https://www.youtube.com/watch?v=Iuz_jc96bQk",
+                "thumb": "https://img.youtube.com/vi/Iuz_jc96bQk/hqdefault.jpg"
+            },
+            {
+                "title": "A MELHOR linguagem de programação com Fabio Akita | #HipstersPontoTube",
+                "url": "https://www.youtube.com/watch?v=imB0QVoNrGc",
+                "thumb": "https://img.youtube.com/vi/imB0QVoNrGc/hqdefault.jpg"
+            },
+            {
+                "title": "Top 5 libs que todo aplicativo Android deve ter com Alex Felipe | #HipstersPontoTube",
+                "url": "https://www.youtube.com/watch?v=ldRbnpy-qQs",
+                "thumb": "https://img.youtube.com/vi/ldRbnpy-qQs/hqdefault.jpg"
+            },
+            {
+                "title": "O que é o C#? #HipstersPontoTube",
+                "url": "https://www.youtube.com/watch?v=0JWMVc1CqpA",
+                "thumb": "https://img.youtube.com/vi/0JWMVc1CqpA/hqdefault.jpg"
+            }
+        ]
+    },
+    "favoritos": [
+        {
+            "nome": "Filipe Deschamps",
+            "imagem": "https://yt3.ggpht.com/ytc/AMLnZu9fwc9E-G17B2vMnbYzZBp_NYs4AmCE802y8x08=s88-c-k-c0x00ffffff-no-rj",
+            "link": "https://www.youtube.com/c/FilipeDeschamps"
+        },
+        {
+            "nome": "Mario Souto",
+            "imagem": "https://yt3.ggpht.com/m8Yrqf0Y81L4mZ1Cq7rGnJ4NDHe6729rxiFZvWyy9-xd_Z7Osmza7J8NWpN1axMHcCb1oKJNgA=s88-c-k-c0x00ffffff-no-rj",
+            "link": "https://www.youtube.com/c/DevSoutinho"
+        },
+        {
+            "nome": "Sodapoppin",
+            "imagem": "https://yt3.ggpht.com/ytc/AMLnZu_vjWUxc1cN4jNAFhwBYi_qDw2UTPE2CbdUH1mHRw=s88-c-k-c0x00ffffff-no-rj",
+            "link": "https://www.youtube.com/c/sodapoppin"
+        },
+        {
+            "nome": "Coisa de Nerd",
+            "imagem": "https://yt3.ggpht.com/ytc/AMLnZu9XCumF881WgJ5yEIZp7BWuImKNC9T-IwVUEGeXyg=s88-c-k-c0x00ffffff-no-rj",
+            "link": "https://www.youtube.com/c/coisadenerd"
+        },
+        {
+            "nome": "Monagua",
+            "imagem": "https://yt3.ggpht.com/qbcSMBHZXzPVkhxVKXBpvCF8fn5n8Bk3IxF-tpw_qE8AZtSs61BRHg154vHG0faQ1iSLrxxqiQ=s88-c-k-c0x00ffffff-no-rj",
+            "link": "https://www.youtube.com/c/SummonersLove"
+        },
+        {
+            "nome": "Narrativando",
+            "imagem": "https://yt3.ggpht.com/ytc/AMLnZu8Wken_5DHimvYB8HFHDjzNDwcOL2W6-QvY1Kdi=s88-c-k-c0x00ffffff-no-rj",
+            "link": "https://www.youtube.com/c/Narrativando"
+        },
+        {
+            "nome": "Polyphia",
+            "imagem": "https://yt3.ggpht.com/s4d07-fg2LQog_EX3NDLu-h_95zdIltv_bBfjzuxbmqOGSqIfRxMwo47CLjtD4yfrKfoIPCbuPw=s88-c-k-c0x00ffffff-no-rj",
+            "link": "https://www.youtube.com/c/Polyphia"
+        }
+    ]
+}
