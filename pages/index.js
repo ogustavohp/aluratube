@@ -9,7 +9,6 @@ function HomePage() {
   const [valorDoFiltro, setValorDoFiltro] = React.useState("");
   return (
     <>
-      <CSSReset />
       <div
         style={{
           display: "flex",
@@ -32,6 +31,8 @@ function HomePage() {
 export default HomePage;
 
 const StyledHeader = styled.div`
+  background-color: ${({ theme }) => theme.backgroundLevel1};
+
   .banner {
     margin-top: 50px;
     width: 100vw;
@@ -136,7 +137,11 @@ const StyledInfluenciadores = styled.section`
     display: flex;
     flex-direction: column;
     align-items: center;
+    p {
+      text-align: center;
+    }
   }
+  
 `;
 
 function Influenciadores(props) {
