@@ -1,12 +1,32 @@
 import React from "react";
 import config from "../config.json";
 import styled from "styled-components";
-import { CSSReset } from "../src/components/CSSReset";
 import Menu from "../src/components/Menu";
 import { StyledTimeline } from "../src/components/Timeline";
+import { videoService } from "../src/services/videoService";
 
 function HomePage() {
+  const service = videoService();
   const [valorDoFiltro, setValorDoFiltro] = React.useState("");
+  const [playlists, setPlaylists] = React.useState({});
+
+  React.useEffect(() => {
+    console.log("useEffect");
+    service.getAllVideos().then((dados) => {
+      console.log(dados.data);
+      const novasPlaylists = {};
+      dados.data.forEach((video) => {
+        if (!novasPlaylists[video.playlist])
+          novasPlaylists[video.playlist] = [];
+        novasPlaylists[video.playlist] = [
+          video,
+          ...novasPlaylists[video.playlist],
+        ];
+      });
+      setPlaylists(novasPlaylists);
+    });
+  }, []);
+
   return (
     <>
       <div
@@ -21,7 +41,7 @@ function HomePage() {
           setValorDoFiltro={setValorDoFiltro}
         />
         <Header />
-        <TimeLine searchValue={valorDoFiltro} playlists={config.playlists} />
+        <TimeLine searchValue={valorDoFiltro} playlists={playlists} />
         <Influenciadores favoritos={config.favoritos} />
       </div>
     </>
@@ -141,7 +161,6 @@ const StyledInfluenciadores = styled.section`
       text-align: center;
     }
   }
-  
 `;
 
 function Influenciadores(props) {
